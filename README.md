@@ -14,11 +14,9 @@ Software engineering student at the University of Sydney building full stack web
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-5A6D8A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PC9zdmc+)
 
 ### Developer tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Libraries, frameworks & databases
@@ -29,7 +27,6 @@ Software engineering student at the University of Sydney building full stack web
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Drools](https://img.shields.io/badge/Drools-F76C5E?style=for-the-badge&logo=drools&logoColor=white)
 
 ---
 
@@ -53,18 +50,3 @@ Software engineering student at the University of Sydney building full stack web
 [![Website](https://img.shields.io/badge/Portfolio-Visit-4AB0E6?style=for-the-badge&logo=vercel&logoColor=white)](https://mohsinsiddiqui.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinsiddiqui10/)
 [![Email](https://img.shields.io/badge/Email-mohsinsiddiqui1905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinsiddiqui1905@gmail.com)
-
----
-
-## Quick stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-sin19&layout=compact&theme=default)
-![Stats](https://github-readme-stats.vercel.app/api?username=moh-sin19&show_icons=true&count_private=true&theme=default)
-
----
-
-If you want I can:
-- Replace the generic colors with exact brand colors,
-- Add pinned repo badges under "Selected projects" with direct repo links,
-- Produce a compact single-line tagline for the top.
-
-Which of those would you like next?  
