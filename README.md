@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Mohsin Murtaza Siddiqui
-Software engineering student at the University of Sydney building full stack web apps and machine learning tools. I focus on reliable production code, geospatial systems and ML for remote sensing.
+Software engineering student at the University of Sydney building full stack web apps and machine learning tools. 
 
 ---
 
