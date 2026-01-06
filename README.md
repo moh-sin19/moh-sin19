@@ -34,7 +34,7 @@ Software engineering student at the University of Sydney building full stack web
 
 ## What I'm doing now
 - **Machine Learning** at *Sydney Interplanetary Rover Initiative* — developing deep learning models to accelerate detection of water and ilmenite in lunar regolith (Jul 2025 - Present).  
-- **Web Design Officer** at *Sydney UAV Engineering* — lead design and maintenance of the SUAVE website, improving accessibility and SEO (May 2024 - Present).  
+- **Web Design Officer** at *Sydney UAV Engineering* — led design and maintenance of the SUAVE website, improving accessibility and SEO (May 2024 - Present).  
 - **Software Engineering Intern** at *RDA Group* — production work with Next.js, TypeScript and Node.js.
 
 ---
